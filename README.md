@@ -1,4 +1,4 @@
-# Analyzing-Electric-Vehicle-Charging-Patterns-Insights-and-Visualizations
+# Analyzing-Electric-Vehicle-Charging-Patterns-Insights-and-Visualizations focusing on using Pandas and Matplotlib library  
 
 #Project Description:
 Project Overview: This project aims to provide a comprehensive analysis of electric vehicle (EV) charging patterns and user behavior using a dataset sourced from Kaggle titled "Electric Vehicle Charging Patterns." The dataset contains 1,320 samples of charging session data, capturing various metrics such as energy consumption, charging duration, vehicle details, and more. The analysis and visualizations offer insightful perspectives on EV usage and facilitate predictive modeling.
